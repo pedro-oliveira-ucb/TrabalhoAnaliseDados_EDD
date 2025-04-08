@@ -43,5 +43,7 @@ O programa realiza as seguintes operações sobre os dados:
 
 - Os resultados das ordenações (itens 1 e 2) são armazenados em arquivos .csv, mantendo o cabeçalho original.
 
+## 🔨 Compilação
 
+- Este projeto foi compilado utilizando Visual Studio 2022 ( v143 ) e C++ 14
 
